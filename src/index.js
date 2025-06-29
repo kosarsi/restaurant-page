@@ -12,6 +12,6 @@ showHome();
 
 homeButton.addEventListener("click", showHome);
 
-menuButton.addEventListener("click", showMenu);
+menuButton.addEventListener("click", showMenu); 
 
 aboutButton.addEventListener("click", showAbout);
